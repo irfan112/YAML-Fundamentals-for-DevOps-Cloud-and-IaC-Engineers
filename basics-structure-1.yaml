@@ -1,0 +1,6 @@
+--- # start points
+street: "101 Mian street"
+city: 'san jose'
+state: California
+zip: 95035
+... # end point
